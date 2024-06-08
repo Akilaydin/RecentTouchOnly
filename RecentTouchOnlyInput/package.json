@@ -1,0 +1,18 @@
+﻿{
+  "name": "com.origames.recenttouchonlyinput",
+  "version": "1.0.0",
+  "displayName": "Recent Touch Only Input",
+  "description": "A touch input module where the next touch cancels the previous one.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Ovchinnikov Artem"
+  },
+  "keywords": [
+    "touch",
+    "input",
+    "single",
+    "override",
+    "cancel"
+  ],
+  "dependencies": {}
+}
