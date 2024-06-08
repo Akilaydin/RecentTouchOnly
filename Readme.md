@@ -4,7 +4,17 @@ This package provides a touch input module where the next touch cancels the prev
 
 ## Installation
 
-1. Add the following to your `manifest.json` in the `Packages` folder of your Unity project:
+### Package Manager UI
+1. Open the **Package Manager** window in Unity.
+2. Click the **Add package from git URL** button.
+3. Paste the following URL:
+    ```text
+    https://github.com/Akilaydin/RecentTouchOnly.git
+    ```
+
+### Manual Installation
+1. Open the `manifest.json` file located in the `Packages` folder of your Unity project.
+2. Add the dependency for `RecentTouchOnly` as shown below:
     ```json
     {
       "dependencies": {
@@ -12,8 +22,10 @@ This package provides a touch input module where the next touch cancels the prev
       }
     }
     ```
+3. Save the `manifest.json` file.
+4. Open Unity, which will automatically download and import the package.
 
-2. Open Unity and it will automatically download and import the package.
+Both methods will integrate the `RecentTouchOnly` package into your Unity project seamlessly.
 
 ## Usage
 
