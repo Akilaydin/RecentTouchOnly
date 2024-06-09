@@ -18,7 +18,7 @@ This package provides a touch input module where the next touch cancels the prev
     ```json
     {
       "dependencies": {
-        "com.origames.recenttouchonly": "https://github.com/Akilaydin/RecentTouchOnly.git"
+        "com.origames.recenttouchonlyinput": "https://github.com/Akilaydin/RecentTouchOnly.git"
       }
     }
     ```
